@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <div id="header" align="center">
   <img src="https://giphy.com/embed/3o7abkwfIVAeDT6RSU" width="100"/>
   <img src="https://giphy.com/embed/3oz8xA9gtnyVDPZJHW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-internet-computers-3oz8xA9gtnyVDPZJHW"/>
