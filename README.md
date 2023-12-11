@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <img src="https://giphy.com/embed/3o7abkwfIVAeDT6RSU" width="100"/>
-  <iframe src="https://giphy.com/embed/3oz8xA9gtnyVDPZJHW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-internet-computers-3oz8xA9gtnyVDPZJHW">via GIPHY</a></p>
+  <img src="https://giphy.com/embed/3oz8xA9gtnyVDPZJHW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-internet-computers-3oz8xA9gtnyVDPZJHW">via GIPHY</a></p>
 </div>
